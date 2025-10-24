@@ -1,0 +1,30 @@
+Gender,Age,Height (cm),Sport,Level of Satisfaction,Level of Education
+Male,25,178,No,Very Satisfied,PHD
+Male,24,190,Yes,Very Satisfied,MA
+Male,27,178,No,Very Satisfied,PHD
+Male,29,189,Yes,Very Satisfied,PHD
+Male,24,179,Yes,Satisfied,BA
+Male,27,177,No,Not Satisfied,SG
+Male,25,193,Yes,Satisfied,BA
+Male,26,190,Yes,Very Satisfied,PHD
+Male,30,185,Yes,Not Satisfied,SG
+Male,30,195,Yes,Satisfied,MA
+Male,25,194,Yes,Satisfied,MA
+Female,27,160,No,Satisfied,BA
+Female,20,168,Yes,Not Satisfied,SG
+Female,24,175,Yes,Very Satisfied,MA
+Female,26,150,No,Very Satisfied,PHD
+Female,26,176,Yes,Very Satisfied,PHD
+Female,27,173,Yes,Very Satisfied,PHD
+Female,22,172,Yes,Satisfied,SG
+Female,24,167,No,Satisfied,BA
+Female,23,169,No,Not Satisfied,SG
+Female,30,166,No,Very Satisfied,PHD
+Female,32,165,No,Very Satisfied,PHD
+Female,28,172,Yes,Not Satisfied,SG
+Female,28,155,No,Not Satisfied,SG
+Female,29,158,No,Very Satisfied,PHD
+Female,27,165,No,Satisfied,BA
+Female,25,167,No,Satisfied,BA
+Female,28,175,Yes,Satisfied,SG
+Female,29,164,No,Not Satisfied,SG
